@@ -2,5 +2,5 @@
 
 :loop 
 python .\speedtest.py --no-repeat
-timeout /t 120
+timeout /t 1
 goto loop
